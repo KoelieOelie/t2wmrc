@@ -1,3 +1,3 @@
 # t2wmrc
 
-Made on StackBlitz ⚡️](https://stackblitz.com/)
+[Made on StackBlitz ⚡](https://stackblitz.com/)
